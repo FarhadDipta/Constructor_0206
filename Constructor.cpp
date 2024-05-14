@@ -18,6 +18,8 @@ public:
     }
 };
 
+int mahasiswa::nim = 206;
+
 int main(){
 
 }
