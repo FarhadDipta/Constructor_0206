@@ -20,6 +20,11 @@ public:
 
 int mahasiswa::nim = 206;
 
+void mahasiswa::setID()
+{
+    id = ++nim;
+}
+
 int main(){
 
 }
